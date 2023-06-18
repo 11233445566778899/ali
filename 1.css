@@ -1,0 +1,14 @@
+.All{background-color: rgb(158, 99, 65);
+    color: rgb(240, 248, 255);}
+    h1{font-size: 100px;}
+    p{
+    border-style: solid;
+    width: 300px;
+    color: aliceblue;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    padding-left: 0%;
+    padding-right: 0%;
+    border-top: 100px
+    ;}
